@@ -17,8 +17,8 @@ import time
 from datetime import datetime
 
 # Apify Configuration
-APIFY_API_TOKEN = "apify_api_kEcpZp1e8KYW22TXE7iM55lo8fSjkz0gGBiI"
-APIFY_USER_ID = "MzYxLPBnQJUlBL9P8"
+APIFY_API_TOKEN = "apify_api_Token"
+APIFY_USER_ID = "ID"
 DATABASE = "leads.db"
 
 # Choose which actor to use

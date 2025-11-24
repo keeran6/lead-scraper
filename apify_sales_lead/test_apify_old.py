@@ -8,7 +8,7 @@ import requests
 import json
 
 # Your Apify credentials
-APIFY_API_TOKEN = "apify_api_kEcpZp1e8KYW22TXE7iM55lo8fSjkz0gGBiI"
+APIFY_API_TOKEN = "apify_api"
 
 print("=" * 60)
 print("APIFY API TEST")

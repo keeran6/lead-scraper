@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Environment
+.env
+.venv
+
+# Database
+data/*.db
+data/*.db-journal
+*.sqlite*
+
+# Exports
+exports/*.csv
+exports/*.json
+exports/*.xlsx
+
+# Logs
+logs/*.log
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Chrome Driver
+chromedriver*
